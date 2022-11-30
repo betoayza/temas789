@@ -1,0 +1,42 @@
+ Ⅰ 
+Ⅱ
+Ⅲ 
+Ⅳ 
+Ⅴ
+Ⅵ 
+Ⅶ 
+Ⅷ
+Ⅸ
+Ⅹ
+
+1. INTRODUCCIÓN
+2. ESTADO DEL ARTE
+3. DEFINICIÓN DEL PROBLEMA
+4. SOLUCIÓN PROPUESTA
+4.1. FASE INVESTIGACIÓN
+4.2. FASE ANÁLISIS
+4.2.1. Análisis F.O.D.A.
+4.2.2. Análisis de Requerimientos
+4.2.2.1. Funcionales
+4.2.2.2. No funcionales
+4.2.3. Planificación
+4.2.4. Especificaciones del sistema
+4.2.5. Análisis de especificaciones
+4.2.5.1. Diagramas de casos de uso
+4.2.5.2. Especificaciones de casos de uso
+4.2.5.3. Modelo conceptual
+4.2.5.4. Modelo de comportamiento
+5. FASE DE DISEÑO
+5.1. Arquitectura Física
+5.2. Arquitectura Lógica
+5.3. Pruebas
+6. RESULTADOS
+6.1. Fase de Implementación
+7. FASE MANTENIMIENTO Y REVISIÓN
+8. CONCLUSIONES 
+9. REFERENCIAS
+10. BIBLIOGRAFÍA
+11. ANEXOS
+11.1. Encuestas
+
+
